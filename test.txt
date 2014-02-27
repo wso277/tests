@@ -1,3 +1,4 @@
 git checkout -b name //create copy to new branch name
 git push origin name //push to branch
-
+git merge name //merge name to current branch
+git push origin :name //delete branch name
