@@ -1,3 +1,1 @@
-commit1 branch master
-commit2 branch branch1
-commit3 branch2
+git checkout -b name //create copy to new branch name
